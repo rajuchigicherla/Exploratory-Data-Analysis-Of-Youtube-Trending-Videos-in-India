@@ -44,6 +44,8 @@ In this 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 Project, we will u
 
 **Entire analysis file was uploaded within the repository**
 
+Feel free to check it
+
 **You'll have a great time reading it**
 
 ## Contributing
