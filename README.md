@@ -22,7 +22,7 @@ Before we deep dive into the project I would like to pay my sincere gratitude to
 
 So, let’s get started.
 
-## About Dataset
+## About Data
  We have two data files one is **CSV** and the other one is **JSON**
  
  Our JSON file was uploaded within the repository
@@ -33,8 +33,8 @@ So, let’s get started.
 
 https://drive.google.com/file/d/1Am_SpGNnZqXsZdQG7P4_eWGTMc1TT25U/view?usp=share_link
 
-
-In this 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 Project, we will use **Python** to analyze the dataset obtained from youtube to enhance our understanding of:
+-------------------------
+In this 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 Project, we will use **Python** to analyze the dataset obtained from youtube to enhance the understanding of:
 
 - Working with web data
 -  Framing the right business questions
